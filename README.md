@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**81** solved · 54 problems · 1 labs · 26 math
+**82** solved · 55 problems · 1 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-10-05 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-05 | [solution](problems/0016-feature-scaling-implementation) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-10-02 | [solution](problems/0308-gradient-direction-and-magnitude) |
+| [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-10-31 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-10-10 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-10-27 | [solution](problems/0046-implement-precision-metric) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-10-11 | [solution](problems/0042-implement-relu-activation-function) |
