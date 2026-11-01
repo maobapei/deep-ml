@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**84** solved · 57 problems · 1 labs · 26 math
+**85** solved · 58 problems · 1 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -66,6 +66,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-09-30 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-28 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-10-01 | [solution](problems/0007-matrix-transformation) |
+| [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-11-01 | [solution](problems/1129-merge-multiple-dataframes) |
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-10-13 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-10-13 | [solution](problems/1227-numerically-stable-softmax) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-02 | [solution](problems/0312-quotient-rule-for-derivatives) |
