@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T16:49:06.411Z",
+  "generated_at": "2026-11-03T17:00:31.831Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -1103,6 +1103,17 @@
       "path": "math/0127-precision-and-recall-at-a-threshold",
       "first_solved_at": "2026-11-03T16:49:04.259Z",
       "last_pushed_at": "2026-11-03T16:49:04.259Z"
+    },
+    "math:44": {
+      "kind": "math",
+      "id": "44",
+      "title": "Class Imbalance and Proper Scoring",
+      "difficulty": "easy",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/44",
+      "path": "math/0044-class-imbalance-and-proper-scoring",
+      "first_solved_at": "2026-11-03T17:00:29.445Z",
+      "last_pushed_at": "2026-11-03T17:00:29.445Z"
     }
   }
 }
