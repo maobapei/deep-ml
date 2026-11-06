@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T17:00:31.831Z",
+  "generated_at": "2026-11-06T10:26:37.342Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -1114,6 +1114,19 @@
       "path": "math/0044-class-imbalance-and-proper-scoring",
       "first_solved_at": "2026-11-03T17:00:29.445Z",
       "last_pushed_at": "2026-11-03T17:00:29.445Z"
+    },
+    "problem:801": {
+      "kind": "problem",
+      "id": "801",
+      "title": "Polynomial Regression Fit",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/801",
+      "path": "problems/0801-polynomial-regression-fit",
+      "first_solved_at": "2026-11-06T10:26:35.272Z",
+      "last_pushed_at": "2026-11-06T10:26:35.272Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**90** solved · 61 problems · 1 labs · 28 math
+**91** solved · 62 problems · 1 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -72,6 +72,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-10-13 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-10-13 | [solution](problems/1227-numerically-stable-softmax) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-11-03 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
+| [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-11-06 | [solution](problems/0801-polynomial-regression-fit) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-02 | [solution](problems/0312-quotient-rule-for-derivatives) |
 
 ## Labs
