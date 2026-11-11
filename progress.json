@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:07:24.450Z",
+  "generated_at": "2026-11-11T09:27:45.163Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -1166,6 +1166,19 @@
       "last_pushed_at": "2026-11-09T17:07:21.718Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:1201": {
+      "kind": "problem",
+      "id": "1201",
+      "title": "Your First CUDA Kernel: Thread Index",
+      "difficulty": "easy",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1201",
+      "path": "problems/1201-your-first-cuda-kernel-thread-index",
+      "first_solved_at": "2026-11-11T09:27:43.990Z",
+      "last_pushed_at": "2026-11-11T09:27:43.990Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }

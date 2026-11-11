@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**94** solved · 65 problems · 1 labs · 28 math
+**95** solved · 66 problems · 1 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -62,6 +62,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-29 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-09-28 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-09-28 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
+| [Your First CUDA Kernel: Thread Index](https://www.deep-ml.com/problems/1201) | easy | 2026-11-11 | [solution](problems/1201-your-first-cuda-kernel-thread-index) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-05 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Clean a Messy Dataset: Dedup, Standardize, Impute](https://www.deep-ml.com/problems/1131) | medium | 2026-11-01 | [solution](problems/1131-clean-a-messy-dataset-dedup-standardize-impute) |
 | [Compute Confusion Matrix with Normalization](https://www.deep-ml.com/problems/193) | medium | 2026-10-07 | [solution](problems/0193-compute-confusion-matrix-with-normalization) |
